@@ -1,0 +1,14 @@
+// WalkDir
+dynoser/walkdir: :https://raw.githubusercontent.com/dynoser/WalkDir/main/src/walkdir.hashsig.zip @/dynoser/walkdir/src/* WalkDir.php
+dynoser\tools\WalkDir: ?dynoser/walkdir/WalkDir
+
+//HELML
+dynoser/HELML: :https://raw.githubusercontent.com/dynoser/phpHELML/master/phpHELML.hashsig.zip @/dynoser/helml/* @/dynoser/helml/src/* src/HELML.php
+dynoser\tools\HELML: ?dynoser/HELML/HELML
+
+// KeySigner
+dynoser/keysigner: :https://raw.githubusercontent.com/dynoser/keysigner/main/src/keysigner.hashsig.zip @/dynoser/keysigner/src/* KeySigner.php
+
+// HashSig
+dynoser/hashsig: :https://raw.githubusercontent.com/dynoser/hashsig/main/hashsig.hashsig.zip @/dynoser/hashsig/* src/HashSigCreater.php
+ 
