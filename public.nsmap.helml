@@ -10,5 +10,5 @@ dynoser\tools\HELML: ?dynoser/HELML/HELML
 dynoser/keysigner: :https://raw.githubusercontent.com/dynoser/keysigner/main/src/keysigner.hashsig.zip @/dynoser/keysigner/src/* KeySigner.php
 
 // HashSig
-dynoser/hashsig: :https://raw.githubusercontent.com/dynoser/hashsig/main/hashsig.hashsig.zip @/dynoser/hashsig/* src/HashSigCreater.php
+dynoser/hashsig: :https://raw.githubusercontent.com/dynoser/hashsig/main/hashsig.hashsig.zip @/dynoser/hashsig/* @/dynoser/hashsig/src/* src/HashSigCreater.php
  
