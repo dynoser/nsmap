@@ -11,4 +11,6 @@ dynoser/keysigner: :https://raw.githubusercontent.com/dynoser/keysigner/main/src
 
 // HashSig
 dynoser/hashsig: :https://raw.githubusercontent.com/dynoser/hashsig/main/hashsig.hashsig.zip @/dynoser/hashsig/* @/dynoser/hashsig/src/* src/HashSigCreater.php
- 
+
+// AutoLoader
+dynoser/autoload: :https://raw.githubusercontent.com/dynoser/autoload/main/autoload.hashsig.zip @/dynoser/autoload/* @/dynoser/hashsig/src/* src/AutoLoader.php
