@@ -1,16 +1,16 @@
 // WalkDir
-dynoser/walkdir: :https://raw.githubusercontent.com/dynoser/WalkDir/main/src/walkdir.hashsig.zip @/dynoser/walkdir/src/* WalkDir.php
+dynoser/walkdir: :https://raw.githubusercontent.com/dynoser/WalkDir/main/src/walkdir.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/dynoser/walkdir/src/* WalkDir.php
 dynoser\tools\WalkDir: ?dynoser/walkdir/WalkDir
 
 //HELML
-dynoser/HELML: :https://raw.githubusercontent.com/dynoser/phpHELML/master/phpHELML.hashsig.zip @/dynoser/helml/* @/dynoser/helml/src/* src/HELML.php
+dynoser/HELML: :https://raw.githubusercontent.com/dynoser/phpHELML/master/phpHELML.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/dynoser/helml/* @/dynoser/helml/src/* src/HELML.php
 dynoser\tools\HELML: ?dynoser/HELML/HELML
 
 // KeySigner
-dynoser/keysigner: :https://raw.githubusercontent.com/dynoser/keysigner/main/src/keysigner.hashsig.zip @/dynoser/keysigner/src/* KeySigner.php
+dynoser/keysigner: :https://raw.githubusercontent.com/dynoser/keysigner/main/src/keysigner.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/dynoser/keysigner/src/* KeySigner.php
 
 // HashSig
-dynoser/hashsig: :https://raw.githubusercontent.com/dynoser/hashsig/main/hashsig.hashsig.zip @/dynoser/hashsig/* @/dynoser/hashsig/src/* src/HashSigCreater.php
+dynoser/hashsig: :https://raw.githubusercontent.com/dynoser/hashsig/main/hashsig.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/dynoser/hashsig/* @/dynoser/hashsig/src/* src/HashSigCreater.php
 
 // AutoLoader
-dynoser/autoload: :https://raw.githubusercontent.com/dynoser/autoload/main/autoload.hashsig.zip @/dynoser/autoload/* @/dynoser/hashsig/src/* src/AutoLoader.php
+dynoser/autoload: :https://raw.githubusercontent.com/dynoser/autoload/main/autoload.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/dynoser/autoload/* @/dynoser/hashsig/src/* src/AutoLoader.php
