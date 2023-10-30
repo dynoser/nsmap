@@ -14,3 +14,6 @@ dynoser/hashsig: :https://raw.githubusercontent.com/dynoser/hashsig/main/hashsig
 
 // AutoLoader
 dynoser/autoload: :https://raw.githubusercontent.com/dynoser/autoload/main/autoload.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/dynoser/autoload/* @/dynoser/hashsig/src/* src/AutoLoader.php
+
+// git-php
+CzProject/GitPhp: :https://raw.githubusercontent.com/dynoser/git-php/master/git-php.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/czproject/git-php/* @/czproject/git-php/src/* src/Git.php
