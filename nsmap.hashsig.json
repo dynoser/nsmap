@@ -1,0 +1,9 @@
+{
+    "filePatterns": [
+        "*.helml"
+    ],
+    "excludePatterns": [],
+    "maxFilesCnt": 100,
+    "getHidden": false,
+    "maxSizeBytes": 1048576
+}
