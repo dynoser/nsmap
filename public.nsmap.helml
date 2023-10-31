@@ -18,5 +18,8 @@ dynoser/autoload: :https://raw.githubusercontent.com/dynoser/autoload/main/autol
 // git-php (repack)
 CzProject/GitPhp: :https://raw.githubusercontent.com/dynoser/repack/main/git-php/git-php.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/czproject/git-php/* @/czproject/git-php/src/* src/Git.php
 
+// dynoser/webtools/GitExec (for git-php)
+dynoser/webtools: :https://github.com/dynoser/repack/blob/main/dynoser/webtools/gitexec.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= &/* gitexec.php
+
 // syfony/process 5.0.11 repack
 Symfony/Component/Process: :https://raw.githubusercontent.com/dynoser/repack/main/symfony/process-5.0.11/process-5.0.11.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/Symfony/Component/Process/* Process.php
