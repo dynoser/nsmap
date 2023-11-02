@@ -13,7 +13,7 @@ dynoser/keysigner: :https://raw.githubusercontent.com/dynoser/keysigner/main/src
 dynoser/hashsig: :https://raw.githubusercontent.com/dynoser/hashsig/main/hashsig.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/dynoser/hashsig/* @/dynoser/hashsig/src/* src/HashSigCreater.php
 
 // AutoLoader
-dynoser/autoload: :https://raw.githubusercontent.com/dynoser/autoload/main/autoload.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/dynoser/autoload/* @/dynoser/hashsig/src/* src/AutoLoader.php
+dynoser/autoload: :https://raw.githubusercontent.com/dynoser/autoload/main/autoload.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/dynoser/autoload/* @/dynoser/autoload/src/* src/AutoLoader.php
 // GitAutoCommiter
 dynoser\autoload\GitAutoCommiter: :https://raw.githubusercontent.com/dynoser/autocommiter/main/autocommiter.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/dynoser/autoload/* @/dynoser/autoload/src/* src/GitAutoCommiter.php
 
