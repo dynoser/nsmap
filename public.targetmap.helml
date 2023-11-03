@@ -1,0 +1,504 @@
+
+dynoser/walkdir:
+
+ :WalkDir.php
+  ::--: WalkDir.php
+  ::--: d8590491d246a81520043355f4fff2f4b06e86fbacd2ee390929045b45f38815
+  ::--: 19180
+ #
+
+ :*:
+  ::hashsig: f78471fa60e72c735e76638f5aec2ac60d8efbb8e59ff4757136a7fb6faf4e3e
+  ::filescnt: 1
+  ::hashalg: sha256
+  ::signalg: ed25519
+  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::signature: 5Hkf1KXeNJDl3wYC73MGL6XRBxkQBf+rCWEGBHH6IUYP33lM7FMfvKU9K8zVnO48L1KZeOstpB5+k/dYzdPWBA==
+ #
+#
+
+dynoser/HELML:
+
+ :composer.json
+  ::--: composer.json
+  ::--: f593800d778b205292c36409f30d160879252a78b4aee524b3bdfd57c33ba780
+  ::--: 631
+ #
+
+ :README.md
+  ::--: README.md
+  ::--: 9e20320d2a4caa034774b8e838013abcda0839f5b2dc829e9f0996889b82ec7c
+  ::--: 5384
+ #
+
+ :src/fileHELMLsect.php
+  ::--: src/fileHELMLsect.php
+  ::--: a8e4407435b338b90a32b7375c405ec5ed37cad119af2c4073d4131b854e9016
+  ::--: 8097
+ #
+
+ :src/HELML.php
+  ::--: src/HELML.php
+  ::--: 773c853440b3ec8d793a0478f07367b827c128f8cfdb775258365bab0b2b8fb0
+  ::--: 17438
+ #
+
+ :src/HELMLdecoder.php
+  ::--: src/HELMLdecoder.php
+  ::--: be88ea3ce4cedc1c095592ed6d47322d5c1e787b8c20e74f702af97372e38bd4
+  ::--: 9296
+ #
+
+ :*:
+  ::hashsig: a8ddb1baaa56cd5dc21d36a891e2504088fb9709ff23887e47e603edebcfed24
+  ::filescnt: 5
+  ::hashalg: sha256
+  ::signalg: ed25519
+  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::signature: iI/BWfznTxtZFw7jAOQPlYN9iEfVipxzfy4/tV1Q19ZdVZAuWkeRmeeydkDUAH53TU+v8vhzlPRDyJxi0Ss4BQ==
+ #
+#
+
+dynoser/keysigner:
+
+ :KeyEd25519PPK.php
+  ::--: KeyEd25519PPK.php
+  ::--: 2c505c49e9c780812308a555502d2fe219487722b16cd85668ddda2d7c03c5cb
+  ::--: 3572
+ #
+
+ :KeySigner.php
+  ::--: KeySigner.php
+  ::--: b25c2065a858c38a737995be75f0b0d4332a71320d63e5cf1bf363df5e7bcc85
+  ::--: 7126
+ #
+
+ :TrustedKeys.php
+  ::--: TrustedKeys.php
+  ::--: 3273ca1a0220f5fa457316d618daf2898c7a116c17d610c1ba2bd529a86435a3
+  ::--: 2420
+ #
+
+ :*:
+  ::hashsig: d2a4b701cee63101054fc08146e21285b4cfdd83bf931e0d093c300fe5a9870c
+  ::filescnt: 3
+  ::hashalg: sha256
+  ::signalg: ed25519
+  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::signature: BWGr0j0jZaZAQCrsKAEJQfp+fidTfTQ4+jPDAygKy0+jZ4hgXrS7oPW00Pcx+NC7f+vGmiIacKwgmybPfcYkCA==
+ #
+#
+
+dynoser/hashsig:
+
+ :hashsig.php
+  ::--: hashsig.php
+  ::--: 135ff359d5a73224c37a6b4fb0654a37600c89b9d7d6c596ba88b702115a5179
+  ::--: 15597
+ #
+
+ :src/HashSigBase.php
+  ::--: src/HashSigBase.php
+  ::--: 2ca1e2a1c152b3f5eb031ac5a5f3df3cbcee606dd495665df28f6dd08905586b
+  ::--: 8657
+ #
+
+ :src/HashSigCreater.php
+  ::--: src/HashSigCreater.php
+  ::--: 4ead9a4af78eed79224dd8cd6b059fbc2212ac3eda959bf3c3b6b9477d03fb26
+  ::--: 17707
+ #
+
+ :*:
+  ::hashsig: c88976ead18214432c6a2c3ba11fd6d25070490172a00fae21aedd77d649bf94
+  ::filescnt: 3
+  ::hashalg: sha256
+  ::signalg: ed25519
+  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::signature: LJUCEnkNBTADxJbiUkUPKEBYWl1NKN1QVas6cIhvRhmI5CMDcXwvD2ZBc+GrOVBynP8/zx+ZA7PM1JCBRbC6Aw==
+ #
+#
+
+dynoser/autoload:
+
+ :autoload.php
+  ::--: autoload.php
+  ::--: 72634bc6f915a215d746a24b7071241d14babe783aabdf779d57a64ba35653da
+  ::--: 1232
+ #
+
+ :src/AutoLoader.php
+  ::--: src/AutoLoader.php
+  ::--: 247f6aeb50594845a7c72295d975137d322daa361f9d2562a67c86704ee3c267
+  ::--: 8250
+ #
+
+ :src/AutoLoadSetup.php
+  ::--: src/AutoLoadSetup.php
+  ::--: 5e3f9e092c3dad2e3b17a4c5f69523bef81d6792ae35fbe06e683cc2fa447bea
+  ::--: 4490
+ #
+
+ :src/DynoImporter.php
+  ::--: src/DynoImporter.php
+  ::--: 27a6dc32e472e132f1820682ca562bcd79abad12e23af2bdb6c9b981b865c592
+  ::--: 12934
+ #
+
+ :src/DynoLoader.php
+  ::--: src/DynoLoader.php
+  ::--: b83150d9e9966fcc81dae8448ce2014b6d626f5a077f3f5ecf3f033488558931
+  ::--: 11215
+ #
+
+ :src/HashSigBase.php
+  ::--: src/HashSigBase.php
+  ::--: 2ca1e2a1c152b3f5eb031ac5a5f3df3cbcee606dd495665df28f6dd08905586b
+  ::--: 17297
+ #
+
+ :*:
+  ::hashsig: 932e46247a65425014417a65d8bc5fba2644cfd7fab3d38c58b51b655538b983
+  ::filescnt: 6
+  ::hashalg: sha256
+  ::signalg: ed25519
+  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::signature: NLb5C0JyeBwlwBl+N95DhTJebBfg8meXrNW04FohL9V9s11z2gQrZheDp2d7cUNECqF2hEahtc/9eqtNwDeIBA==
+ #
+#
+
+dynoser/nsmupdate:
+
+ :src/TargetDiff.php
+  ::--: src/TargetDiff.php
+  ::--: 7bf29aa06f4f147b3035db75d2f520e10e2f5484bcb2a36ecfd172ff4935f9ab
+  ::--: 6969
+ #
+
+ :src/TargetMaps.php
+  ::--: src/TargetMaps.php
+  ::--: ab13df4d5d17c6d3b10921dddadbc5d36873fe627cd0fc01167dbb715e400f10
+  ::--: 13020
+ #
+
+ :src/UpdateByNSMaps.php
+  ::--: src/UpdateByNSMaps.php
+  ::--: ec513e514f876fcf2b7e084e8afe908bb02b82f51e9c30440b3a2e3364fa2f99
+  ::--: 4138
+ #
+
+ :*:
+  ::hashsig: f742e5053a4dfbbd8e25cd2bb9bab4ad4e01b805286c1be37ba61356aa8cd59a
+  ::filescnt: 3
+  ::hashalg: sha256
+  ::signalg: ed25519
+  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::signature: ATvZH493dEBFftyMgYm73t5/nGPUYttD7eezEi+IFgrOtQOwcuoiqTfxMifOs3mJuwgqEUNByXedO70JaPGvCg==
+ #
+#
+
+dynoser\webtools\Pkg:
+
+ :pkg/index.php
+  ::--: pkg/index.php
+  ::--: aa7184e32762b46f9c725d5a054c56c417cc4e44eb6e60d9611f6c5aaf744b07
+  ::--: 20
+ #
+
+ :*:
+  ::hashsig: aba061fa330706454fdef6d053aefec46bbd724b55cb80ebb55ba34006e641f6
+  ::filescnt: 1
+  ::hashalg: sha256
+  ::signalg: ed25519
+  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::signature: 50j5FZUFii9K1IKjwNtHux0Tcd+TGN/T7Fh9idVDLHWx1pFmr9aMCqfvKvqnqSOiFH/3s8cDyy1WHwLjK1pSAg==
+ #
+#
+
+dynoser\autoload\GitAutoCommiter:
+
+ :src/GitAutoCommiter.php
+  ::--: src/GitAutoCommiter.php
+  ::--: eb5a5dabf2b7d1cc6058847c2c6cc673a55515f81d96098bd70bea1dbb674030
+  ::--: 4723
+ #
+
+ :*:
+  ::hashsig: d5100f346ad2a1ac9ba198e86e6d140a06bfaf2407562f59c0a30be881830303
+  ::filescnt: 1
+  ::hashalg: sha256
+  ::signalg: ed25519
+  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::signature: i92wjZjYGMxQrecs6KI0raD8h4OptqyW4PYPU0fyOCoQ/8zn3V/gRYwOhH+k1QKYwJq+TlIDIbDhoghER80ICA==
+ #
+#
+
+CzProject/GitPhp:
+
+ :composer.json
+  ::--: composer.json
+  ::--: 115be6c697bc880d0257383e417554a03f500b250ba9c8ef25f46207d72389fd
+  ::--: 488
+ #
+
+ :nsmap.helml
+  ::--: nsmap.helml
+  ::--: ece7847a3b8fd3198861f2a6783905259f0080571cab006c073a621cbc215b5e
+  ::--: 45
+ #
+
+ :license.md
+  ::--: license.md
+  ::--: 3795dfbc249082fd73b4750fc3c01d6b07c998af1ef18bd0560dad2f56368004
+  ::--: 1560
+ #
+
+ :readme.md
+  ::--: readme.md
+  ::--: 4d3ace5d60504480459dc2a91b0acc9d274f9a97fb985523c870d03ec718b529
+  ::--: 7184
+ #
+
+ :src/CommandProcessor.php
+  ::--: src/CommandProcessor.php
+  ::--: ca77e0ff0d3f50ca100c81c1b5a6ecee71c4504020528767a1fb5ed284944674
+  ::--: 2663
+ #
+
+ :src/Commit.php
+  ::--: src/Commit.php
+  ::--: b6c177f96ba732263a67e2dc29e359a663e7f334754753248e50d0969cea8d93
+  ::--: 2523
+ #
+
+ :src/CommitId.php
+  ::--: src/CommitId.php
+  ::--: f532dd89c2ed123856b751edb22d6c0b70631b1f018fb1b6442b16bf9621ad60
+  ::--: 780
+ #
+
+ :src/exceptions.php
+  ::--: src/exceptions.php
+  ::--: c188ecfcf3470eac40728f1f1117834e73617c5e7fb23086c986cae4f69e52ef
+  ::--: 799
+ #
+
+ :src/Git.php
+  ::--: src/Git.php
+  ::--: 6a0cdbcb4f933abdace741c96bbd353027fbbe6fa73913f41c4c18414c4b55cb
+  ::--: 3473
+ #
+
+ :src/GitRepository.php
+  ::--: src/GitRepository.php
+  ::--: ecea9cfe4f289153675c9606c7147f8c4978a2e1b50802a508cf80cfee3b73b7
+  ::--: 14019
+ #
+
+ :src/Helpers.php
+  ::--: src/Helpers.php
+  ::--: 92b9dc5d39b8c4d93ef34e1778c0690a687571733c4b00dfb859c88b2934e4a4
+  ::--: 1109
+ #
+
+ :src/IRunner.php
+  ::--: src/IRunner.php
+  ::--: 4afa25b49e2181c38c56e812953384a704d8ec95c3b3f6125d9efe19e06f3877
+  ::--: 333
+ #
+
+ :src/RunnerResult.php
+  ::--: src/RunnerResult.php
+  ::--: 7d0695b02cdc033ed86dd191513a9f50ae74e88cad14463a9db398586db002c5
+  ::--: 2063
+ #
+
+ :src/Runners/CliRunner.php
+  ::--: src/Runners/CliRunner.php
+  ::--: 5e3a344a2e8b0ed31cf5a6fd1c2ab3a4e7b52a6536d716c40f5d64caf85de013
+  ::--: 2561
+ #
+
+ :src/Runners/MemoryRunner.php
+  ::--: src/Runners/MemoryRunner.php
+  ::--: 608a9553cfb3b4b8595c6ec1de8014da1e91c8ae2cae8d961fd3ea773aa5770c
+  ::--: 1576
+ #
+
+ :src/Runners/OldGitRunner.php
+  ::--: src/Runners/OldGitRunner.php
+  ::--: 0720063e5b560baff38e611fe1135cec40481980f452d21bcbc31bdcc807d898
+  ::--: 615
+ #
+
+ :*:
+  ::hashsig: 5cad0d615f3e60939192c74d1489242e122b69b18db053eb14c9650d7396f1f0
+  ::filescnt: 16
+  ::hashalg: sha256
+  ::signalg: ed25519
+  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::signature: lmi/tV4LdW3A6Owcr9yEWFhxuulakKGeuCUZPYSaS9X6t9iqKBpD/MwjAgwD5iNzFw6nkKCKia+HdBbQzvT1BA==
+ #
+#
+
+dynoser\webtools\GitExec:
+
+ :gitexec.php
+  ::--: gitexec.php
+  ::--: 85b8a807c1bcfd4b37cdc7fa3c1d16c59fb7ba3a7216d80d56fee03f3785a21e
+  ::--: 5449
+ #
+
+ :*:
+  ::hashsig: e634b4721b12ea445dea2394405650733c3f807d4e619906df2ec90206320d05
+  ::filescnt: 1
+  ::hashalg: sha256
+  ::signalg: ed25519
+  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::signature: 3lwYn4tcXNjCUgMApGRpurL6e6xqUKbR4rMEhsKHgW2oTTgaFmCFs/DPrZd+9qaQHA/CQF8WJfJHDrbsWEmdCg==
+ #
+#
+
+Symfony/Component/Process:
+
+ :CHANGELOG.md
+  ::--: CHANGELOG.md
+  ::--: 0b1212eba84ceb69450cd0cbd24c85292929db19905934ba83ca8fba44d5494f
+  ::--: 3731
+ #
+
+ :composer.json
+  ::--: composer.json
+  ::--: 95bdfb60a24eb33b0d49e1ee9bdbd33e9e354fe12b2b8f8103c166906fabcf31
+  ::--: 758
+ #
+
+ :ExecutableFinder.php
+  ::--: ExecutableFinder.php
+  ::--: dd440603d00b42ad63d402753fd22038138af0d25c3bf23a35578602b9550e0b
+  ::--: 2576
+ #
+
+ :InputStream.php
+  ::--: InputStream.php
+  ::--: 1a06fa61c9df905acf1c98ef4d83ef537538f38d45ac1cd3db9cb7d9d4392016
+  ::--: 2310
+ #
+
+ :LICENSE
+  ::--: LICENSE
+  ::--: 45b74a394cc6df4f268170bd3ce839e0b50cff66c44c2354562ce8d069091659
+  ::--: 1065
+ #
+
+ :nsmap.helml
+  ::--: nsmap.helml
+  ::--: 74b1ae62ec8df192adc6291e8c8806405d97f5fb6d1c9f624825c7046ba36fc8
+  ::--: 582
+ #
+
+ :PhpExecutableFinder.php
+  ::--: PhpExecutableFinder.php
+  ::--: a65cabd78ea9931316613c9f6e061386992bf05542f09809e12fc4eb26901f33
+  ::--: 2575
+ #
+
+ :PhpProcess.php
+  ::--: PhpProcess.php
+  ::--: 37636abce10a8eda18b7a627c26718d5511bf7ad67587798b9161e762b32680f
+  ::--: 2462
+ #
+
+ :Process.php
+  ::--: Process.php
+  ::--: 6250dfc9e08e6b13243ebc5f934a089718a555f245b4c839f4dabceb23a6a8bb
+  ::--: 51453
+ #
+
+ :ProcessUtils.php
+  ::--: ProcessUtils.php
+  ::--: 594890215a7b941de05449ba8ddb35d63f7dc0edb584c2651e40e317c2216095
+  ::--: 1869
+ #
+
+ :README.md
+  ::--: README.md
+  ::--: a2d777c3d1aab1c975834295869503ecd3ac6ab573682a519be82a9df62766bf
+  ::--: 477
+ #
+
+ :Exception/ExceptionInterface.php
+  ::--: Exception/ExceptionInterface.php
+  ::--: 544e59b6d6023f113920c1d6a037e33ff4389350802899ce0b22a4e978262876
+  ::--: 450
+ #
+
+ :Exception/InvalidArgumentException.php
+  ::--: Exception/InvalidArgumentException.php
+  ::--: 804a50e6fddbd347ef2e58ce1e517bb9b5c0e6e85f3e180aa737a309efa275eb
+  ::--: 496
+ #
+
+ :Exception/LogicException.php
+  ::--: Exception/LogicException.php
+  ::--: 324d0170880899015dddab3d4bfb41586358c9052b7996bd7e691d5ab7ac7a59
+  ::--: 466
+ #
+
+ :Exception/ProcessFailedException.php
+  ::--: Exception/ProcessFailedException.php
+  ::--: dac064bb55aec8cc959a5a2855fe4be43cd6e40ccd3e5d92a9aecd82693e87f0
+  ::--: 1421
+ #
+
+ :Exception/ProcessSignaledException.php
+  ::--: Exception/ProcessSignaledException.php
+  ::--: 4b9156c9d65db12525636b8c29ada29c0683a81772d4db03dcc63ec46d368cb5
+  ::--: 945
+ #
+
+ :Exception/ProcessTimedOutException.php
+  ::--: Exception/ProcessTimedOutException.php
+  ::--: 211b2be555e3340be6ea97c2c0c2f6030bec1ad8e4123bbbc99278146cd14bbd
+  ::--: 1663
+ #
+
+ :Exception/RuntimeException.php
+  ::--: Exception/RuntimeException.php
+  ::--: 6a030facd29abdb91ecaf44baf3f0f9dd210e3085e1928f153a721229a253d84
+  ::--: 481
+ #
+
+ :Pipes/AbstractPipes.php
+  ::--: Pipes/AbstractPipes.php
+  ::--: 6c1e3ad06c0f5d11c62e7894b394691e9f776c570cfd7bae100829c31e15ed12
+  ::--: 4992
+ #
+
+ :Pipes/PipesInterface.php
+  ::--: Pipes/PipesInterface.php
+  ::--: 341a370aca2f1f2a7ed1cb969f069bc3bd87b7a2872bd610b58b19846a7b586a
+  ::--: 1489
+ #
+
+ :Pipes/UnixPipes.php
+  ::--: Pipes/UnixPipes.php
+  ::--: 6eb22ccccdd3dfdcc7dcd03052c09cded790d17bb455ec7b098739c9038013fb
+  ::--: 3666
+ #
+
+ :Pipes/WindowsPipes.php
+  ::--: Pipes/WindowsPipes.php
+  ::--: 42c752deaf3422237412c1056ba894c32a89e3fade169677d19ca1633cfdb1fe
+  ::--: 5784
+ #
+
+ :*:
+  ::hashsig: 7a7b892ec2dd7718b3c3313f81ec6a88f292c3b7756655d3b3178738f849a3c6
+  ::filescnt: 22
+  ::hashalg: sha256
+  ::signalg: ed25519
+  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::signature: gpJtTxfWmY4d8BzX8AwD0rHKWbup856FHxz5s54xWSqwvM6GA1QPPDJniSr4g3bFW3JtUV6aKyrfJuMXJND2Dw==
+ #
+#
