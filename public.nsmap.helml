@@ -15,7 +15,7 @@ dynoser/hashsig: :https://raw.githubusercontent.com/dynoser/hashsig/main/hashsig
 // AutoLoader
 dynoser/autoload: :https://raw.githubusercontent.com/dynoser/autoload/main/autoload.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/dynoser/autoload/* @/dynoser/autoload/src/* src/AutoLoader.php
 // pkg/index.php
-dynoser\webtools\Pkg: :https://raw.githubusercontent.com/dynoser/pkg/main/pkg.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= &/pkg/index.php index.php
+dynoser\webtools\Pkg: :https://raw.githubusercontent.com/dynoser/pkg/main/pkg.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= &/* &/pkg/index.php pkg/index.php
 
 // GitAutoCommiter
 dynoser\autoload\GitAutoCommiter: :https://raw.githubusercontent.com/dynoser/autocommiter/main/autocommiter.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/dynoser/autoload/* @/dynoser/autoload/src/GitAutoCommiter.php src/GitAutoCommiter.php
