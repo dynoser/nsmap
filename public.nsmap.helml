@@ -14,6 +14,8 @@ dynoser/hashsig: :https://raw.githubusercontent.com/dynoser/hashsig/main/hashsig
 
 // AutoLoader
 dynoser/autoload: :https://raw.githubusercontent.com/dynoser/autoload/main/autoload.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/dynoser/autoload/* @/dynoser/autoload/src/* src/AutoLoader.php
+// dynoser/nsmupdate
+dynoser/nsmupdate: :https://raw.githubusercontent.com/dynoser/nsmupdate/main/nsmupdate.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/dynoser/nsmupdate/* @/dynoser/nsmupdate/src/* src/UpdateByNSMaps.php
 // pkg/index.php
 dynoser\webtools\Pkg: :https://raw.githubusercontent.com/dynoser/pkg/main/pkg.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= &/* &/pkg/index.php pkg/index.php
 
