@@ -8,12 +8,13 @@ dynoser/walkdir:
  #
 
  :*:
-  ::hashsig: f78471fa60e72c735e76638f5aec2ac60d8efbb8e59ff4757136a7fb6faf4e3e
-  ::filescnt: 1
+  ::checktime:  1699119656
   ::hashalg: sha256
-  ::signalg: ed25519
-  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
-  ::signature: 5Hkf1KXeNJDl3wYC73MGL6XRBxkQBf+rCWEGBHH6IUYP33lM7FMfvKU9K8zVnO48L1KZeOstpB5+k/dYzdPWBA==
+  ::filescnt: 1
+  ::fromurl: https://raw.githubusercontent.com/dynoser/WalkDir/main/src/walkdir.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::target: @/dynoser/walkdir/src/
+  ::chkfile: WalkDir.php
+  ::ns: @/dynoser/walkdir/src/*
  #
 #
 
@@ -50,12 +51,13 @@ dynoser/HELML:
  #
 
  :*:
-  ::hashsig: a8ddb1baaa56cd5dc21d36a891e2504088fb9709ff23887e47e603edebcfed24
-  ::filescnt: 5
+  ::checktime:  1699119656
   ::hashalg: sha256
-  ::signalg: ed25519
-  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
-  ::signature: iI/BWfznTxtZFw7jAOQPlYN9iEfVipxzfy4/tV1Q19ZdVZAuWkeRmeeydkDUAH53TU+v8vhzlPRDyJxi0Ss4BQ==
+  ::filescnt: 5
+  ::fromurl: https://raw.githubusercontent.com/dynoser/phpHELML/master/phpHELML.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::target: @/dynoser/helml/
+  ::chkfile: src/HELML.php
+  ::ns: @/dynoser/helml/src/*
  #
 #
 
@@ -80,12 +82,13 @@ dynoser/keysigner:
  #
 
  :*:
-  ::hashsig: d2a4b701cee63101054fc08146e21285b4cfdd83bf931e0d093c300fe5a9870c
-  ::filescnt: 3
+  ::checktime:  1699119656
   ::hashalg: sha256
-  ::signalg: ed25519
-  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
-  ::signature: BWGr0j0jZaZAQCrsKAEJQfp+fidTfTQ4+jPDAygKy0+jZ4hgXrS7oPW00Pcx+NC7f+vGmiIacKwgmybPfcYkCA==
+  ::filescnt: 3
+  ::fromurl: https://raw.githubusercontent.com/dynoser/keysigner/main/src/keysigner.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::target: @/dynoser/keysigner/src/
+  ::chkfile: KeySigner.php
+  ::ns: @/dynoser/keysigner/src/*
  #
 #
 
@@ -110,12 +113,13 @@ dynoser/hashsig:
  #
 
  :*:
-  ::hashsig: c88976ead18214432c6a2c3ba11fd6d25070490172a00fae21aedd77d649bf94
-  ::filescnt: 3
+  ::checktime:  1699119657
   ::hashalg: sha256
-  ::signalg: ed25519
-  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
-  ::signature: LJUCEnkNBTADxJbiUkUPKEBYWl1NKN1QVas6cIhvRhmI5CMDcXwvD2ZBc+GrOVBynP8/zx+ZA7PM1JCBRbC6Aw==
+  ::filescnt: 3
+  ::fromurl: https://raw.githubusercontent.com/dynoser/hashsig/main/hashsig.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::target: @/dynoser/hashsig/
+  ::chkfile: src/HashSigCreater.php
+  ::ns: @/dynoser/hashsig/src/*
  #
 #
 
@@ -158,16 +162,23 @@ dynoser/autoload:
  #
 
  :*:
-  ::hashsig: f9656ed0c6688ded6b36f5675ad9ba590df62a743541f82dd507f45c7c163246
-  ::filescnt: 6
+  ::checktime:  1699119657
   ::hashalg: sha256
-  ::signalg: ed25519
-  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
-  ::signature: G+QNAolQwNQszbYzCt+DEAfJ8h97WzaLdfJV1t4DnWrtt/+mK2xxRtfDvSb8nZ0WIvzefNjnjD14OW3EgFgvDA==
+  ::filescnt: 6
+  ::fromurl: https://raw.githubusercontent.com/dynoser/autoload/main/autoload.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::target: @/dynoser/autoload/
+  ::chkfile: src/AutoLoader.php
+  ::ns: @/dynoser/autoload/src/*
  #
 #
 
 dynoser/nsmupdate:
+
+ :src/NSMapLocalUp.php
+  ::--: src/NSMapLocalUp.php
+  ::--: 0018fb92343bdebb1e8ab78cc36c7dd3850aa0fd7d4ef56e9b1e75f305eab981
+  ::--: 2447
+ #
 
  :src/TargetDiff.php
   ::--: src/TargetDiff.php
@@ -175,25 +186,32 @@ dynoser/nsmupdate:
   ::--: 6969
  #
 
+ :src/TargetMapBuilder.php
+  ::--: src/TargetMapBuilder.php
+  ::--: 6aa6e84753f72687b8ab5764c4e413365c3bc822acc6bd2dd1a539a86bddc0d4
+  ::--: 3399
+ #
+
  :src/TargetMaps.php
   ::--: src/TargetMaps.php
-  ::--: ab13df4d5d17c6d3b10921dddadbc5d36873fe627cd0fc01167dbb715e400f10
-  ::--: 13020
+  ::--: 61612995116cae1654a9b47e08a83240244e14829f2b36e87992030e5a970ae5
+  ::--: 13695
  #
 
  :src/UpdateByNSMaps.php
   ::--: src/UpdateByNSMaps.php
   ::--: ec513e514f876fcf2b7e084e8afe908bb02b82f51e9c30440b3a2e3364fa2f99
-  ::--: 4138
+  ::--: 5426
  #
 
  :*:
-  ::hashsig: f742e5053a4dfbbd8e25cd2bb9bab4ad4e01b805286c1be37ba61356aa8cd59a
-  ::filescnt: 3
+  ::checktime:  1699119657
   ::hashalg: sha256
-  ::signalg: ed25519
-  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
-  ::signature: ATvZH493dEBFftyMgYm73t5/nGPUYttD7eezEi+IFgrOtQOwcuoiqTfxMifOs3mJuwgqEUNByXedO70JaPGvCg==
+  ::filescnt: 5
+  ::fromurl: https://raw.githubusercontent.com/dynoser/nsmupdate/main/nsmupdate.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::target: @/dynoser/nsmupdate/
+  ::chkfile: src/UpdateByNSMaps.php
+  ::ns: @/dynoser/nsmupdate/src/*
  #
 #
 
@@ -206,12 +224,13 @@ dynoser\webtools\Pkg:
  #
 
  :*:
-  ::hashsig: aba061fa330706454fdef6d053aefec46bbd724b55cb80ebb55ba34006e641f6
-  ::filescnt: 1
+  ::checktime:  1699119657
   ::hashalg: sha256
-  ::signalg: ed25519
-  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
-  ::signature: 50j5FZUFii9K1IKjwNtHux0Tcd+TGN/T7Fh9idVDLHWx1pFmr9aMCqfvKvqnqSOiFH/3s8cDyy1WHwLjK1pSAg==
+  ::filescnt: 1
+  ::fromurl: https://raw.githubusercontent.com/dynoser/pkg/main/pkg.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::target: &/
+  ::chkfile: pkg/index.php
+  ::ns: &/pkg/index.php
  #
 #
 
@@ -224,12 +243,13 @@ dynoser\autoload\GitAutoCommiter:
  #
 
  :*:
-  ::hashsig: d5100f346ad2a1ac9ba198e86e6d140a06bfaf2407562f59c0a30be881830303
-  ::filescnt: 1
+  ::checktime:  1699119658
   ::hashalg: sha256
-  ::signalg: ed25519
-  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
-  ::signature: i92wjZjYGMxQrecs6KI0raD8h4OptqyW4PYPU0fyOCoQ/8zn3V/gRYwOhH+k1QKYwJq+TlIDIbDhoghER80ICA==
+  ::filescnt: 1
+  ::fromurl: https://raw.githubusercontent.com/dynoser/autocommiter/main/autocommiter.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::target: @/dynoser/autoload/
+  ::chkfile: src/GitAutoCommiter.php
+  ::ns: @/dynoser/autoload/src/GitAutoCommiter.php
  #
 #
 
@@ -332,12 +352,13 @@ CzProject/GitPhp:
  #
 
  :*:
-  ::hashsig: 5cad0d615f3e60939192c74d1489242e122b69b18db053eb14c9650d7396f1f0
-  ::filescnt: 16
+  ::checktime:  1699119658
   ::hashalg: sha256
-  ::signalg: ed25519
-  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
-  ::signature: lmi/tV4LdW3A6Owcr9yEWFhxuulakKGeuCUZPYSaS9X6t9iqKBpD/MwjAgwD5iNzFw6nkKCKia+HdBbQzvT1BA==
+  ::filescnt: 16
+  ::fromurl: https://raw.githubusercontent.com/dynoser/repack/main/git-php/git-php.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::target: @/czproject/git-php/
+  ::chkfile: src/Git.php
+  ::ns: @/czproject/git-php/src/*
  #
 #
 
@@ -350,12 +371,12 @@ dynoser\webtools\GitExec:
  #
 
  :*:
-  ::hashsig: e634b4721b12ea445dea2394405650733c3f807d4e619906df2ec90206320d05
-  ::filescnt: 1
+  ::checktime:  1699119658
   ::hashalg: sha256
-  ::signalg: ed25519
-  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
-  ::signature: 3lwYn4tcXNjCUgMApGRpurL6e6xqUKbR4rMEhsKHgW2oTTgaFmCFs/DPrZd+9qaQHA/CQF8WJfJHDrbsWEmdCg==
+  ::filescnt: 1
+  ::fromurl: https://raw.githubusercontent.com/dynoser/repack/main/dynoser/webtools/gitexec.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::chkfile: gitexec.php
+  ::ns: &/gitexec.php
  #
 #
 
@@ -494,11 +515,12 @@ Symfony/Component/Process:
  #
 
  :*:
-  ::hashsig: 7a7b892ec2dd7718b3c3313f81ec6a88f292c3b7756655d3b3178738f849a3c6
-  ::filescnt: 22
+  ::checktime:  1699119659
   ::hashalg: sha256
-  ::signalg: ed25519
-  ::pubkey: EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
-  ::signature: gpJtTxfWmY4d8BzX8AwD0rHKWbup856FHxz5s54xWSqwvM6GA1QPPDJniSr4g3bFW3JtUV6aKyrfJuMXJND2Dw==
+  ::filescnt: 22
+  ::fromurl: https://raw.githubusercontent.com/dynoser/repack/main/symfony/process-5.0.11/process-5.0.11.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::target: @/Symfony/Component/Process/
+  ::chkfile: Process.php
+  ::ns: @/Symfony/Component/Process/*
  #
 #
