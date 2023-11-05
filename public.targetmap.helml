@@ -8,7 +8,7 @@ dynoser/walkdir:
  #
 
  :*:
-  ::checktime:  1699167439
+  ::checktime:  1699209690
   ::hashalg: sha256
   ::filescnt: 1
   ::fromurl: https://raw.githubusercontent.com/dynoser/WalkDir/main/src/walkdir.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -45,7 +45,7 @@ dynoser/HELML:
  #
 
  :*:
-  ::checktime:  1699167439
+  ::checktime:  1699209690
   ::hashalg: sha256
   ::filescnt: 4
   ::fromurl: https://raw.githubusercontent.com/dynoser/phpHELML/master/phpHELML.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -76,7 +76,7 @@ dynoser/keysigner:
  #
 
  :*:
-  ::checktime:  1699167440
+  ::checktime:  1699209690
   ::hashalg: sha256
   ::filescnt: 3
   ::fromurl: https://raw.githubusercontent.com/dynoser/keysigner/main/src/keysigner.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -96,7 +96,7 @@ dynoser/hashsig:
 
  :src/HashSigBase.php
   ::--: src/HashSigBase.php
-  ::--: 2ca1e2a1c152b3f5eb031ac5a5f3df3cbcee606dd495665df28f6dd08905586b
+  ::--: 98e4a47a86e409afe8f0277c075117768efd2b3d75f0f9d118a6665811b1016d
   ::--: 8657
  #
 
@@ -107,7 +107,7 @@ dynoser/hashsig:
  #
 
  :*:
-  ::checktime:  1699167440
+  ::checktime:  1699209690
   ::hashalg: sha256
   ::filescnt: 3
   ::fromurl: https://raw.githubusercontent.com/dynoser/hashsig/main/hashsig.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -155,10 +155,16 @@ dynoser/autoload:
   ::--: 17297
  #
 
+ :src/HELMLmicro.php
+  ::--: src/HELMLmicro.php
+  ::--: b30b79b9ba5cb62574508efcbcec1fa1feb0471bba062fd2b2e101a884640dbd
+  ::--: 1111
+ #
+
  :*:
-  ::checktime:  1699167440
+  ::checktime:  1699209690
   ::hashalg: sha256
-  ::filescnt: 6
+  ::filescnt: 7
   ::fromurl: https://raw.githubusercontent.com/dynoser/autoload/main/autoload.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
   ::target: @/dynoser/autoload/
   ::chkfile: src/AutoLoader.php
@@ -199,7 +205,7 @@ dynoser/nsmupdate:
  #
 
  :*:
-  ::checktime:  1699167440
+  ::checktime:  1699209690
   ::hashalg: sha256
   ::filescnt: 5
   ::fromurl: https://raw.githubusercontent.com/dynoser/nsmupdate/main/nsmupdate.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -218,7 +224,7 @@ dynoser\webtools\Pkg:
  #
 
  :*:
-  ::checktime:  1699167441
+  ::checktime:  1699209690
   ::hashalg: sha256
   ::filescnt: 1
   ::fromurl: https://raw.githubusercontent.com/dynoser/pkg/main/pkg.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -237,7 +243,7 @@ dynoser\autoload\GitAutoCommiter:
  #
 
  :*:
-  ::checktime:  1699167441
+  ::checktime:  1699209691
   ::hashalg: sha256
   ::filescnt: 1
   ::fromurl: https://raw.githubusercontent.com/dynoser/autocommiter/main/autocommiter.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -346,7 +352,7 @@ CzProject/GitPhp:
  #
 
  :*:
-  ::checktime:  1699167441
+  ::checktime:  1699209691
   ::hashalg: sha256
   ::filescnt: 16
   ::fromurl: https://raw.githubusercontent.com/dynoser/repack/main/git-php/git-php.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -365,7 +371,7 @@ dynoser\webtools\GitExec:
  #
 
  :*:
-  ::checktime:  1699167442
+  ::checktime:  1699209691
   ::hashalg: sha256
   ::filescnt: 1
   ::fromurl: https://raw.githubusercontent.com/dynoser/repack/main/dynoser/webtools/gitexec.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -509,7 +515,7 @@ Symfony/Component/Process:
  #
 
  :*:
-  ::checktime:  1699167442
+  ::checktime:  1699209691
   ::hashalg: sha256
   ::filescnt: 22
   ::fromurl: https://raw.githubusercontent.com/dynoser/repack/main/symfony/process-5.0.11/process-5.0.11.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
