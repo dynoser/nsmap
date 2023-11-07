@@ -31,5 +31,5 @@ dynoser\webtools\GitExec: :https://raw.githubusercontent.com/dynoser/repack/main
 Symfony/Component/Process: :https://raw.githubusercontent.com/dynoser/repack/main/symfony/process-5.0.11/process-5.0.11.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/Symfony/Component/Process/* Process.php
 
 //Hooks
-Solomono\Hook: :https://raw.githubusercontent.com/dynoser/hooks/main/Hooks/src/hooks.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= ~/* ~/Hook.php Hook.php
-Solomono/Hooks: :https://raw.githubusercontent.com/dynoser/hooks/main/Hooks/src/hooks.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= ~/* ~/Hooks/* Hooks/HookBase.php
+Solomono\Hook: :https://raw.githubusercontent.com/dynoser/hooks/main/hooks.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= ~/* ~/Hook.php Hook.php
+Solomono/Hooks: :https://raw.githubusercontent.com/dynoser/hooks/main/hooks.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= ~/* ~/Hooks/* Hooks/HookBase.php
