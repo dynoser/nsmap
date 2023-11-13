@@ -32,3 +32,6 @@ Symfony/Component/Process: :https://raw.githubusercontent.com/dynoser/repack/mai
 
 //Hooks
 dynoser/Hooks: :https://raw.githubusercontent.com/dynoser/hooks/main/hooks.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= ~/* ~/Hooks/* Hooks/HookBase.php
+
+//jfcherng
+Jfcherng\Diff\Differ: :https://github.com/dynoser/repack/raw/main/jfcherng/jfcherng.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU= @/jfcherng/* @/jfcherng/php-diff/src/* php-diff/src/Differ.php
