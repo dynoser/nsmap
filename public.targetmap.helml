@@ -8,7 +8,7 @@ dynoser/walkdir:
  #
 
  :*:
-  ::checktime:  1701936775
+  ::checktime:  1701943191
   ::hashalg: sha256
   ::filescnt: 1
   ::fromurl: https://raw.githubusercontent.com/dynoser/WalkDir/main/src/walkdir.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -45,7 +45,7 @@ dynoser/HELML:
  #
 
  :*:
-  ::checktime:  1701936776
+  ::checktime:  1701943191
   ::hashalg: sha256
   ::filescnt: 4
   ::fromurl: https://raw.githubusercontent.com/dynoser/phpHELML/master/phpHELML.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -76,7 +76,7 @@ dynoser/keysigner:
  #
 
  :*:
-  ::checktime:  1701936776
+  ::checktime:  1701943192
   ::hashalg: sha256
   ::filescnt: 3
   ::fromurl: https://raw.githubusercontent.com/dynoser/keysigner/main/src/keysigner.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -107,7 +107,7 @@ dynoser/hashsig:
  #
 
  :*:
-  ::checktime:  1701936776
+  ::checktime:  1701943193
   ::hashalg: sha256
   ::filescnt: 3
   ::fromurl: https://raw.githubusercontent.com/dynoser/hashsig/main/hashsig.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -156,7 +156,7 @@ dynoser/autoload:
  #
 
  :*:
-  ::checktime:  1701936777
+  ::checktime:  1701943193
   ::hashalg: sha256
   ::filescnt: 6
   ::fromurl: https://raw.githubusercontent.com/dynoser/autoload/main/autoload.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -199,7 +199,7 @@ dynoser/nsmupdate:
  #
 
  :*:
-  ::checktime:  1701936777
+  ::checktime:  1701943194
   ::hashalg: sha256
   ::filescnt: 5
   ::fromurl: https://raw.githubusercontent.com/dynoser/nsmupdate/main/nsmupdate.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -218,7 +218,7 @@ dynoser\webtools\Pkg:
  #
 
  :*:
-  ::checktime:  1701936777
+  ::checktime:  1701943194
   ::hashalg: sha256
   ::filescnt: 1
   ::fromurl: https://raw.githubusercontent.com/dynoser/pkg/main/pkg.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -237,7 +237,7 @@ dynoser\autoload\GitAutoCommiter:
  #
 
  :*:
-  ::checktime:  1701936778
+  ::checktime:  1701943194
   ::hashalg: sha256
   ::filescnt: 1
   ::fromurl: https://raw.githubusercontent.com/dynoser/autocommiter/main/autocommiter.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -346,7 +346,7 @@ CzProject/GitPhp:
  #
 
  :*:
-  ::checktime:  1701936778
+  ::checktime:  1701943195
   ::hashalg: sha256
   ::filescnt: 16
   ::fromurl: https://raw.githubusercontent.com/dynoser/repack/main/git-php/git-php.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -365,7 +365,7 @@ dynoser\webtools\GitExec:
  #
 
  :*:
-  ::checktime:  1701936779
+  ::checktime:  1701943197
   ::hashalg: sha256
   ::filescnt: 1
   ::fromurl: https://raw.githubusercontent.com/dynoser/repack/main/dynoser/webtools/gitexec.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -510,7 +510,7 @@ Symfony/Component/Process:
  #
 
  :*:
-  ::checktime:  1701936779
+  ::checktime:  1701943198
   ::hashalg: sha256
   ::filescnt: 22
   ::fromurl: https://raw.githubusercontent.com/dynoser/repack/main/symfony/process-5.0.11/process-5.0.11.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -553,7 +553,7 @@ dynoser/Hooks:
  #
 
  :*:
-  ::checktime:  1701936779
+  ::checktime:  1701943198
   ::hashalg: sha256
   ::filescnt: 5
   ::fromurl: https://raw.githubusercontent.com/dynoser/hooks/main/hooks.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
@@ -884,13 +884,38 @@ Jfcherng/Diff:
  #
 
  :*:
-  ::checktime:  1701936780
+  ::checktime:  1701943202
   ::hashalg: sha256
   ::filescnt: 53
   ::fromurl: https://github.com/dynoser/repack/raw/main/jfcherng/jfcherng.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
   ::target: @/jfcherng/
   ::chkfile: php-diff/src/Differ.php
   ::ns: @/jfcherng/php-diff/src/*
+ #
+#
+
+dynoser\webtools\Proxier:
+
+ :composer.json
+  ::--: composer.json
+  ::--: d9d88d3661383daaa3870e26279226d9bc36d6f222806fcd62eef64b60edf56f
+  ::--: 635
+ #
+
+ :src/Proxier.php
+  ::--: src/Proxier.php
+  ::--: 3798fab9738ad12d7989d32a26bb9450aaad9b5015f4bd77da87fc97f1822207
+  ::--: 6358
+ #
+
+ :*:
+  ::checktime:  1701943203
+  ::hashalg: sha256
+  ::filescnt: 2
+  ::fromurl: https://github.com/dynoser/proxier/archive/refs/tags/v1.0.1.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
+  ::target: @/dynoser/proxier/
+  ::chkfile: src/Proxier.php
+  ::ns: @/dynoser/proxier/src/Proxier.php
  #
 #
 
@@ -909,12 +934,12 @@ dynoser\textworks\PriceFinder:
  #
 
  :*:
-  ::checktime:  1701936782
+  ::checktime:  1701943204
   ::hashalg: sha256
   ::filescnt: 2
   ::fromurl: https://raw.githubusercontent.com/dynoser/pricefinder/main/pricefinder.hashsig.zip|EkDohf20jN/9kXW/WL3ZXo245ggek9TiTWzzmBriMTU=
   ::target: @/dynoser/pricefinder/
   ::chkfile: src/PriceFinder.php
-  ::ns: @/dynoser/pricefinder/src/*
+  ::ns: @/dynoser/pricefinder/src/PriceFinder.php
  #
 #
